@@ -43,6 +43,8 @@ The synchronized code controls light patterns based on the music. **Red, Green, 
 📋 **Submission**
 
 - **Video Demonstration:** Watch the simulation in **Tinkercad** or run it on your Arduino to see the lights blink in sync with "Deck the Halls."
+  link: https://drive.google.com/drive/folders/1HjkF7lz-hQb9SAvDCMKdG7HMwIXdzexG
+  
 - **Source Code**: The code is available in this repository for review, modification, and replication. The primary code is stored in the code.cs file.
 
 ---
